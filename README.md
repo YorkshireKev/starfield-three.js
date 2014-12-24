@@ -1,6 +1,6 @@
 #Three.js (WebGL) experiment#
 
-##starfield demo#
+##Starfield Demo#
 
 Found this old three.js experiment lurking on my hard drive. Much of the code was
 probably borrowed from samples and the like (I think I made it sometime in
